@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\KategoriController;
 use App\Http\Controllers\LevelController;
 use Illuminate\Support\Facades\Route;
 
